@@ -9,7 +9,7 @@ This Modded Hardcore Challenge (MHC) was Designed for Very Difficult Gameplay an
 
 {Objective:} BB All 164 Custom Maps!
 
-{Hardcore Mods:} CustomizerMod, RoundChanger, Mastery Mode, CombinedRounds, CompoundRounds, DoubleChildren.
+{Hardcore Mods:} CustomizerMod, RoundChanger, Mastery Mode.
 
 {Beneficial Mods:} BiggerManaShield, BetterVillage, FasterForward, FingerGun, UltimateCrossPathing, UnlimitedHeroes, UnlimitedT5's, PlaceTowersAnywhere. 
 
@@ -22,6 +22,8 @@ No Powers.
 No Insta Monkeys.
 
 No 2x Cash.
+
+No Buying Level 10 for Heroes.
 
 *Can't have more than 4 Different Heroes in a Run.
 
@@ -37,10 +39,6 @@ No 2x Cash.
 
 - All Rounds have Higher Rank Bloons than Normal.
 
-*(Combined Rounds)
-
-- All Rounds Send Normal and ABR Bloons.
-
 -----
 
 [Rewards for BB Each Map:]
@@ -52,4 +50,5 @@ No 2x Cash.
 *1.01x Boost to Starting Cash. {Max:2x}
 
 -----
+
 
