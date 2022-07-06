@@ -11,7 +11,7 @@ This Modded Hardcore Challenge (MHC) was Designed for Very Difficult Gameplay an
 
 {Hardcore Mods:} CustomizerMod, RoundChanger, Mastery Mode.
 
-{Beneficial Mods:} BiggerManaShield, BetterVillage, FasterForward, FingerGun, UltimateCrossPathing, UnlimitedHeroes, UnlimitedT5's, PlaceTowersAnywhere. 
+{Beneficial Mods:} BiggerManaShield, BetterVillage, FasterForward, UltimateCrossPathing, UnlimitedHeroes, UnlimitedT5's, PlaceTowersAnywhere, No_RNG.
 
 -----
 
